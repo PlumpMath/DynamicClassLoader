@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="loadingandroidjar"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="loadinguninstallapk"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:title="loadinginstallapk"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:title="loadingdex"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/res_camera"
+            android:title="res_androidjar"/>
+        <item
+            android:id="@+id/res_gallery"
+            android:title="res_uninstallapk"/>
+        <item
+            android:id="@+id/res_slideshow"
+            android:title="res_installapk"/>
+        <item
+            android:id="@+id/res_manage"
+            android:title="res_dex"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/compon_camera"
+            android:title="compon_androidjar"/>
+        <item
+            android:id="@+id/compon_gallery"
+            android:title="compon_uninstallapk"/>
+        <item
+            android:id="@+id/compon_slideshow"
+            android:title="compon_installapk"/>
+        <item
+            android:id="@+id/compon_manage"
+            android:title="compon_dex"/>
+    </group>
+
+
+</menu>
